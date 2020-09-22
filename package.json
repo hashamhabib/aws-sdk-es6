@@ -63,8 +63,8 @@
     "jmespath": "0.15.0",
     "querystring": "0.2.0",
     "sax": "1.2.1",
-    "url": "git+https://github.com/hashamhabib/url.git",
-    "uuid": "git+https://github.com/hashamhabib/uuid.git",
+    "url": "git+https://github.com/hashamhabib/url.git", 
+    "uuid": "^8.3.0",
     "xml2js": "0.4.19"
   },
   "description": "AWS SDK for JavaScript",
